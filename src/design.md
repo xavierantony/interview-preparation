@@ -1,0 +1,8 @@
+- [Design concepts]()
+    - [CAP Theorem]()
+    - [Bloom filters]()
+    - [Hashing]()
+    - [Consistent hashing]()
+    - [Latency vs Concurrency vs Throughput]()
+    - [Proxy, Reverse Proxy]()
+    - [Reverse Proxy, API Gateway, Load balancers]()
